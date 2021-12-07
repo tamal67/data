@@ -1,2 +1,2 @@
-From Nginx 
-Expose 80
+FROM Nginx 
+ExPOSE 80
